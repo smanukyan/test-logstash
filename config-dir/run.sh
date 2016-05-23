@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 
 # Usage :
+# Must cd to config-dir to run the script.
 # ./run.sh stdin-to-stdout
 # ./run.sh file-to-stdout
 # ./run.sh file-to-file
